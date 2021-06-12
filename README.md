@@ -1,3 +1,5 @@
+### 原始分支也是从alibaba的分支中fork出来的，原始分支地址：https://github.com/alibaba/spring-cloud-alibaba
+### alibaba相关的项目地址：https://github.com/alibaba
 # Spring Cloud Alibaba
 
 [![CircleCI](https://circleci.com/gh/alibaba/spring-cloud-alibaba/tree/master.svg?style=svg)](https://circleci.com/gh/alibaba/spring-cloud-alibaba/tree/master)
